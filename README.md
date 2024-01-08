@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing Concepts,Machine Learning,GenAI**
 
-- 💬 Ask me about **C,C++,Basic Cloud and Networking Concepts**
+- 💬 Ask me about **Python,C,C++,Basic Cloud and Networking Concepts**
 
 - 📫 How to reach me **navjotkaurc4@gmail.com**
 
