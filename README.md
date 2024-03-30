@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navjot Kaur Cheema</h1>
 <h3 align="center">Passionate about Cloud Computing and Networking</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ce44b3f848998271c133c7dcba1540cac117520be69e952e5af2831b403f063b/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966">
+<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/ce44b3f848998271c133c7dcba1540cac117520be69e952e5af2831b403f063b/68747470733a2f2f632e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966](https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0=)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navjotkaurcheema&label=Profile%20views&color=0e75b6&style=flat" alt="navjotkaurcheema" /> </p>
 
