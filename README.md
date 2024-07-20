@@ -13,7 +13,6 @@
 - 🌱 I’m currently exploring advanced machine learning techniques and their applications.
 - 👯 I’m looking to collaborate on exciting AI/ML projects and research.
 - 💬 Ask me about Python, TensorFlow, PyTorch, Data Science, and anything tech-related.
-- 📫 How to reach me: navjotkaurcheema4@gmail.com
 
 ---
 
