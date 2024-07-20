@@ -29,9 +29,9 @@
 ### Connect with Me
 
 <div align="left">
-  <a href=" https://x.com/NavjotKaur68831?s=08" target="_blank">
+<a href="https://x.com/NavjotKaur68831?s=08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter badge" />
-  </a>
+</a>
   <a href="https://www.linkedin.com/in/navjot-kaur-cheema/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
   </a>
